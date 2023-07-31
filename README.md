@@ -52,7 +52,11 @@ The 'make_prediction()' function generates new text based on a given starting wo
 **<h3>Results</h3>**
 
 Here are some example outputs of the text generation process:
+
 ![image](https://github.com/yaaaash/Next-Word-Predictor/assets/87315730/ed28d9b0-e279-4839-9f95-7f50640ac9f1)
+
+![image](https://github.com/yaaaash/Next-Word-Predictor/assets/87315730/062db05d-aab6-4a72-80f4-bdbb34a859fe)
+
 
 **<h3>Future Improvements</h3>**
 
